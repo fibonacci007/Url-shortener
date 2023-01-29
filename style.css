@@ -335,7 +335,7 @@ footer .icons img {
   .fsect .right-img {
     padding-left: 2rem;
     position: absolute;
-    right: -3rem;
+    right: -5rem;
     margin-left: 0;
     margin-right: 0;
   }
@@ -365,7 +365,7 @@ footer .icons img {
 }
 @media (max-width: 500px) {
   .searchdiv .btn3 {
-    padding: 1rem 7rem 1rem 7rem;
+   padding: 1rem 6.5rem 1rem 6.5rem;
     font-size: 20px;
     border-radius: 5px;
   }
