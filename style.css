@@ -332,7 +332,7 @@ footer .icons img {
 
 @media (max-width: 500px) {
   .fsect .right-img img {
-    width: 340px;
+    width: 300px;
     height: 300px;
   }
 }
@@ -340,7 +340,7 @@ footer .icons img {
   .fsect .right-img {
     padding-left: 2rem;
     position: absolute;
-    right: 1rem;
+    right: 2rem;
     margin-left: 0;
     margin-right: 0;
   }
