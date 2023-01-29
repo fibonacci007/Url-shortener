@@ -366,7 +366,8 @@ footer .icons img {
 }
 @media (max-width: 500px) {
   .searchdiv .btn3 {
-   padding: 1rem 5.5rem 1rem 5.5rem;
+   padding: 1rem;
+    width: 12.8rem;
     font-size: 20px;
     border-radius: 5px;
   }
