@@ -278,7 +278,7 @@ footer .icons img {
     background-color: grey;
     margin-top: 0.4rem;
     margin-right: 0rem;
-    margin-left: 7rem;
+    margin-left: 9rem;
     padding-right: 2rem;
   }
 }
@@ -327,7 +327,7 @@ footer .icons img {
 
 @media (max-width: 500px) {
   .fsect .right-img img {
-    width: 330px;
+    width: 370px;
     height: 300px;
   }
 }
@@ -335,7 +335,7 @@ footer .icons img {
   .fsect .right-img {
     padding-left: 2rem;
     position: absolute;
-    right: 1rem;
+    right: -3rem;
     margin-left: 0;
     margin-right: 0;
   }
@@ -365,7 +365,7 @@ footer .icons img {
 }
 @media (max-width: 500px) {
   .searchdiv .btn3 {
-    padding: 1rem 6rem 1rem 6rem;
+    padding: 1rem 7rem 1rem 7rem;
     font-size: 20px;
     border-radius: 5px;
   }
@@ -400,7 +400,6 @@ footer .icons img {
 @media (max-width: 500px) {
   .card p {
     font-size: 0.8rem;
-    padding-bottom: 2rem;
   }
 }
 @media (max-width: 500px) {
